@@ -282,12 +282,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/afyonltetmo/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/afyonltetmo/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/afyonltetmo/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/afyonltetmo/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/afyonltetmo/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/samsung/afyonltetmo/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
-    vendor/samsung/afyonltetmo/proprietary/vendor/lib/hw/sensors.msm8226.so:system/vendor/lib/hw/sensors.msm8226.so \
+    vendor/samsung/afyonltetmo/proprietary/vendor/lib/hw/lights.msm8226.so:system/vendor/lib/hw/lights.msm8226.so \
     vendor/samsung/afyonltetmo/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
-    vendor/samsung/afyonltetmo/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
     vendor/samsung/afyonltetmo/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/samsung/afyonltetmo/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/samsung/afyonltetmo/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
